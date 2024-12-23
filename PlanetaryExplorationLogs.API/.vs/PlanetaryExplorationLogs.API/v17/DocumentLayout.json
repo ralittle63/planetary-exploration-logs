@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|c:\\work\\vsf\\bamtechwork\\planetary-exploration-logs\\planetaryexplorationlogs.api\\planetaryexplorationlogs.api\\requests\\commands\\missions\\addmissiondiscovery\\addmissiondiscovery_handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|solutionrelative:planetaryexplorationlogs.api\\requests\\commands\\missions\\addmissiondiscovery\\addmissiondiscovery_handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|c:\\work\\vsf\\bamtechwork\\planetary-exploration-logs\\planetaryexplorationlogs.api\\planetaryexplorationlogs.api\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|solutionrelative:planetaryexplorationlogs.api\\controllers\\missioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|c:\\work\\vsf\\bamtechwork\\planetary-exploration-logs\\planetaryexplorationlogs.api\\planetaryexplorationlogs.api\\controllers\\discoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|solutionrelative:planetaryexplorationlogs.api\\controllers\\discoverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|c:\\work\\vsf\\bamtechwork\\planetary-exploration-logs\\planetaryexplorationlogs.api\\planetaryexplorationlogs.api\\controllers\\planetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0F4F63-8DBA-451A-9DBF-62F4BCE8BA3D}|PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API.csproj|solutionrelative:planetaryexplorationlogs.api\\controllers\\planetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:127129859:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:217703707:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:855556676:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1540673831:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DiscoveryController.cs",
+              "DocumentMoniker": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Controllers\\DiscoveryController.cs",
+              "RelativeDocumentMoniker": "PlanetaryExplorationLogs.API\\Controllers\\DiscoveryController.cs",
+              "ToolTip": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Controllers\\DiscoveryController.cs",
+              "RelativeToolTip": "PlanetaryExplorationLogs.API\\Controllers\\DiscoveryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:33:22.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddMissionDiscovery_Handler.cs",
+              "DocumentMoniker": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Requests\\Commands\\Missions\\AddMissionDiscovery\\AddMissionDiscovery_Handler.cs",
+              "RelativeDocumentMoniker": "PlanetaryExplorationLogs.API\\Requests\\Commands\\Missions\\AddMissionDiscovery\\AddMissionDiscovery_Handler.cs",
+              "ToolTip": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Requests\\Commands\\Missions\\AddMissionDiscovery\\AddMissionDiscovery_Handler.cs",
+              "RelativeToolTip": "PlanetaryExplorationLogs.API\\Requests\\Commands\\Missions\\AddMissionDiscovery\\AddMissionDiscovery_Handler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T04:33:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MissionController.cs",
+              "DocumentMoniker": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Controllers\\MissionController.cs",
+              "RelativeDocumentMoniker": "PlanetaryExplorationLogs.API\\Controllers\\MissionController.cs",
+              "ToolTip": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Controllers\\MissionController.cs",
+              "RelativeToolTip": "PlanetaryExplorationLogs.API\\Controllers\\MissionController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T09:24:18.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlanetController.cs",
+              "DocumentMoniker": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Controllers\\PlanetController.cs",
+              "RelativeDocumentMoniker": "PlanetaryExplorationLogs.API\\Controllers\\PlanetController.cs",
+              "ToolTip": "C:\\Work\\VSF\\BamTechWork\\planetary-exploration-logs\\PlanetaryExplorationLogs.API\\PlanetaryExplorationLogs.API\\Controllers\\PlanetController.cs",
+              "RelativeToolTip": "PlanetaryExplorationLogs.API\\Controllers\\PlanetController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T08:33:03.326Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
